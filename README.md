@@ -2,7 +2,7 @@
 
 -------
 
-![sonde8's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimrkdgus12&show_icons=true&theme=dracula)
+![kimrkdgus12's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimrkdgus12&show_icons=true&theme=dracula)
 
 <br>
 
