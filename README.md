@@ -6,10 +6,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonde8&layout=compact)
- 
-<br>
-
 ##  Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="ganghyeongim557@gmail.com">
